@@ -1,6 +1,6 @@
  # Introduction
 
-ABTradingCoreExpress  client was built from the ground-up with with C# windows forms to test a  a JSON API intending to be an engine for trading 
+ABTradingCoreExpress  client was built from the ground-up with with C# windows forms to test a  a JSON API intending to be an engine for trading. 
 The api can be found here http://gitlab.dev.africanbank.net/innovation/abtradingcoreexpress 
 
 
