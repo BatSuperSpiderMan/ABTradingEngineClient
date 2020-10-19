@@ -36,10 +36,6 @@ namespace ABTradingEngineClientApp.controller
                 MessageBox.Show("Insufficient Credit");
             }
 
-            //Subtract productprice from buyer balance
-            //Add the productprice to the sellerbalance 
-            //change product owner from seller to buyer
-
             else
             {
                 _buyer.wallet = _buyer.wallet -  _boughtProduct.price;
